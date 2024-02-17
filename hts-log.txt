@@ -1,0 +1,36 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 13 Oct 2023 10:32:33 at https://lucaswoock.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://lucaswoock.com/ -O1 "C:\My Web Sites\Portfolio" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:36:15	Warning: 	File not parsed, looks like binary: https://lucaswoock.com/wp-content/themes/nc/dist/fonts/PPNeueMachina-PlainMedium.woff2
+10:36:15	Warning: 	File not parsed, looks like binary: https://lucaswoock.com/wp-content/themes/nc/dist/fonts/MonumentExtended-Light.woff2
+10:36:15	Warning: 	File not parsed, looks like binary: https://lucaswoock.com/wp-content/themes/nc/dist/fonts/MonumentExtended-Bold.woff2
+10:36:15	Warning: 	File not parsed, looks like binary: https://lucaswoock.com/wp-content/themes/nc/dist/fonts/MonumentExtended-Ultrabold.woff2
+10:36:15	Warning: 	Moved Permanently for https://lucaswoock.com/?p=10
+10:36:15	Warning: 	File has moved from https://lucaswoock.com/?p=10 to https://lucaswoock.com/works/
+10:38:35	Warning: 	Moved Permanently for https://lucaswoock.com/?p=12
+10:38:35	Warning: 	File has moved from https://lucaswoock.com/?p=12 to https://lucaswoock.com/about/
+10:38:35	Warning: 	Moved Permanently for https://lucaswoock.com/?p=14
+10:38:35	Warning: 	File has moved from https://lucaswoock.com/?p=14 to https://lucaswoock.com/contact/
+10:38:35	Warning: 	Moved Permanently for https://lucaswoock.com/?p=313
+10:38:35	Warning: 	File has moved from https://lucaswoock.com/?p=313 to https://lucaswoock.com/legal-notice/
+10:38:35	Warning: 	Moved Permanently for https://lucaswoock.com/?p=266
+10:38:35	Warning: 	File has moved from https://lucaswoock.com/?p=266 to https://lucaswoock.com/works/gp-explorer-2/
+10:38:35	Warning: 	Moved Permanently for https://lucaswoock.com/?p=91
+10:38:35	Warning: 	File has moved from https://lucaswoock.com/?p=91 to https://lucaswoock.com/works/parcel-tiny-house/
+10:38:35	Warning: 	Moved Permanently for https://lucaswoock.com/?p=89
+10:38:35	Warning: 	File has moved from https://lucaswoock.com/?p=89 to https://lucaswoock.com/works/maison-kitsune/
+10:38:35	Warning: 	Retry after error -4 (No data (connection closed)) at link https://lucaswoock.com/wp-content/uploads/2023/08/ambiant-visual-the-bluest-fox-1655x1080.png (from https://lucaswoock.com/works/maison-kitsune/)
+10:38:43	Warning: 	Moved Permanently for https://lucaswoock.com/?p=360
+10:38:43	Warning: 	File has moved from https://lucaswoock.com/?p=360 to https://lucaswoock.com/works/em-strasbourg-business-school/
+10:38:43	Warning: 	Moved Permanently for https://lucaswoock.com/?p=93
+10:38:43	Warning: 	File has moved from https://lucaswoock.com/?p=93 to https://lucaswoock.com/works/sleak-tv/
+10:38:43	Warning: 	Moved Permanently for https://lucaswoock.com/?p=245
+10:38:43	Warning: 	File has moved from https://lucaswoock.com/?p=245 to https://lucaswoock.com/works/papillons-de-nuit-live/
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 25 seconds : 190 links scanned, 178 files written (83971976 bytes overall) [82756836 bytes received at 214952 bytes/sec], 1651957 bytes transferred using HTTP compression in 29 files, ratio 22%, 7.5 requests per connection
+(No errors, 25 warnings, 0 messages)
